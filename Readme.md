@@ -1,10 +1,10 @@
 # Libraries Used:
 
 - Networkx
-- import json
-- import pickle
-- import networkx as nx
-- import matplotlib.pyplot as plt
+- json
+- pickle
+- networkx
+- matplotlib
 
 # Running the code:
 
