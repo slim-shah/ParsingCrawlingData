@@ -19,3 +19,4 @@
 - Graph.pkl         : It is a dictionary object which represents the adjacency matrix of Graph.
 - Graph.png         : Representation of graph in pictorial form.
 - meta_dump.json    : It creates the JSON data which is fed while indexing the contents.
+- DATA              : Directory which contains files to be indexed.
