@@ -1,4 +1,4 @@
-#Libraries Used:
+# Libraries Used:
 
 - Networkx
 - import json
@@ -14,7 +14,7 @@
   note: I have hardcoded the path to crawling dump in Main.py. So change it accordingly to your
         needs.
 
-# Output's Generated:
+# Generated File after Execution of Program:
 
 - Graph.pkl         : It is a dictionary object which represents the adjacency matrix of Graph.
 - Graph.png         : Representation of graph in pictorial form.
